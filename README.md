@@ -17,7 +17,7 @@
 ## 赞助记录
 
 1. 2024.04.20 收到 北京大学学生 Linux 俱乐部的 96 元赞助 **（第二次赞助）**。 北京大学学生 Linux 俱乐部: [https://lcpu.club/wiki/index.php](https://lcpu.club/wiki/index.php)
-2. 2024.04.20 收到 [@](Jingqi Sun) 的 100 元赞助，ta 的 github ：[xiaoqingma0](https://github.com/xiaoqingma0)
+2. 2024.04.20 收到 [小青马](https://github.com/xiaoqingma0) 的 100 元赞助
 3. 2024.04.18 收到 [@erdengk](https://github.com/erdengk) 的 96 元赞助，尔等同学的个人博客 ：[Forever Young](https://erdengk.top/) 
 4. 2023.04.10 收到 北京大学学生 Linux 俱乐部 的 200 元赞助。 北京大学学生 Linux 俱乐部: [https://lcpu.club/wiki/index.php](https://lcpu.club/wiki/index.php)
 
