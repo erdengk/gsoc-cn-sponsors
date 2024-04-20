@@ -1,6 +1,6 @@
-# gsoc-cn-sponsors
+# gsoc-cn-sponsors （ QQ group ）
 
-记录 gsoc-cn 接受的赞助与使用记录 
+记录 gsoc-cn （ QQ group ）接受的赞助与使用记录 
 
 ## 第一笔赞助 来自 北京大学学生 Linux 俱乐部
 
